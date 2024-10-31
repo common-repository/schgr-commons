@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sch.gr commons\n"
+"POT-Creation-Date: 2021-09-08 12:22+0300\n"
+"PO-Revision-Date: 2021-09-08 12:22+0300\n"
+"Last-Translator: Lena Stergatou <aqua6617@yahoo.com>\n"
+"Language-Team: nts on cti.gr\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sch_gr_commons.php:48
+msgid "Go to mmpres.sch.gr"
+msgstr ""
+
+#: sch_gr_commons.php:71
+msgid "Go to video.sch.gr"
+msgstr ""
+
+#: sch_gr_commons.php:105
+msgid "Go to maps.sch.gr"
+msgstr ""
+
+#, fuzzy
+#~ msgid "true"
+#~ msgstr "<code>automatic=\"true\"</code>: Try to collect the user location on page load (same as <code>[agm_add_checkin]</code>."
+
+#, fuzzy
+#~ msgid "Editor"
+#~ msgstr "Note: All icons will be displayed in full-size on the map. In the editor and this list the icon-preview is displayed with 32 x 32 pixels."
